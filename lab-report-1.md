@@ -1,12 +1,11 @@
 # Lab Report 1 - Jacob Roner
 ---
 
-This tutorial will demonstrate how to log into a course-specific account on ieng6. 
+This tutorial will demonstrate how to log into a course-specific account on ieng6. (Screenshots taken on MAC)
 
 
 ## Install VSCode
-Download and install VScode from [here.](https://code.visualstudio.com/download) If you are working on windows, you will also need to install Git.
-
+Download and install VScode from [here.](https://code.visualstudio.com/download) If you are working on windows, you will also need to install Git. 
 Once VScode is installed, open it so that you get to this screen:
  
 ![Image](installingVSCode.png)
