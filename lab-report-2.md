@@ -102,7 +102,7 @@ Buggy program: **ArrayExamples**
   
   **Symptoms from tests:**
   
-  ![Image](ArrayExamplesTest.png)
+  ![Image](ArrayExamplesTests.png)
   
   
   
