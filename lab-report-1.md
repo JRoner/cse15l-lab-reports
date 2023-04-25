@@ -33,15 +33,25 @@ Your commands in the terminal should look something like this:
  
 ![Image](usingCommands.png)
 
+Commands I used:
+- ls = appears to have listed the files contained in the active directory. The only file on my remote student account is the "perl5" file!
+- cat/home/linux/ieng6/cs15lsp23/public/hello.text = concatinatied the contents of "hello.txt" into the terminal. 
+
+Definitions:
+- cd stands for **Change Directory**
+- ls stands for **List**
+- cp stands for **Copy**
+- cat stands for **concatinate** 
+
 Here are a list of some terminal commands:
 
-- cd ~
-- cd
-- ls -lat
-- ls -a
-- ls <directory>
-- cp
-- cat
+- cd ~ = adds the given path to the current directory
+- cd   = Changes the directory to the given one
+- ls -lat = Lists files on the system?
+- ls -a  = lists files on 
+- ls <directory> = List files on the direcoty
+- cp = copies files to directory
+- cat = Concatinates and dispays files from directory
  
  
  
