@@ -114,14 +114,22 @@ Is the order correct?
     java Example John Smith
     ```
     
--A description of what to edit to fix the bug:
+- A description of what to edit to fix the bug:
   ```
   The bug is a problem with the way the bash script was constucted.
-  To fix the bug, the order of ``` $2``` and ```$1``` need to be
+  To fix the bug, the order of "$2" and "$1" need to be
   swaped on line 8 of the run.sh script. 
   
   Essentially, the bug was causing the program to run with the arguments in
   a swaped order. This made the code appear to run incorrectly even though it
   worked perfectly fine.
   ```
+
+---
+
+## Part 2 - Reflection
+
+---
+
+I did not originally know what a bash script was or what they could do. Although we learned about them in class, it was during the week 6 that we were really able to construct our own scripts. This was mind blowing to me. The ability to create a script that can be used to preload teminal commands is so helpful. I love to learn practical ways to make mundane things easier, so I thoroughly enjoyed exploring bash scripts. My partner and I ended up creating a super long and tedious script, and when I compared it to another group, I learned how to make it much more efficient. Thus, bash scripts were one of the most helpful and fun things that I learned from my second half in the 15L lab.
     
