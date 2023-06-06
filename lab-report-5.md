@@ -29,6 +29,7 @@ to provide as much context as you can.
 
 ```
 Student's failed output:
+
 ![Image](studentFail.png)
 
 
@@ -74,6 +75,7 @@ Is the order correct?
 ## 5. Setup Information:
 
 - The file & directory structure:
+
   ![Image](setup.png)
   
 - The contents of each file before fixing the bug:
